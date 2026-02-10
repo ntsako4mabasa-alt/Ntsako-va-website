@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Your Name | Virtual Assistant</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>Your Name</h1>
+    <p class="tagline">Aspiring Virtual Assistant | CRM • Admin • Automation</p>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h2>About</h2>
+      <p>
+        I’m currently training as a Virtual Assistant with a focus on CRM systems,
+        administrative support, and process improvement. This website serves as
+        a professional hub as I continue building practical skills and experience.
+      </p>
+    </section>
+
+    <section class="status">
+      <h2>Current Status</h2>
+      <p>
+        This site is under active development. Services, case studies, and tools
+        will be added as my training progresses.
+      </p>
+    </section>
+
+    <section class="contact">
+      <h2>Contact</h2>
+      <p>Email: <strong>yourname@email.com</strong></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2026 Your Name. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
